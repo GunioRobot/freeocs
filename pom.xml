@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.zhoujin.parent</groupId>
+        <artifactId>parent</artifactId>
+        <version>1.0.0</version>
+    </parent>
+    <groupId>com.zhoujin</groupId>
+    <artifactId>vps</artifactId>
+    <name>Zhoujin's Web Manager 1.0.0</name>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>parent</module>
+        <module>oa</module>
+        <module>blog</module>
+        <module>bbs</module>
+    </modules>
+</project>
